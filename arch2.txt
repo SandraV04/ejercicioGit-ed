@@ -1,1 +1,1 @@
-Texto para arch2.txt
+Nuevo texto para arch2.txt
